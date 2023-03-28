@@ -1,4 +1,4 @@
-
+<!-- 
 <h1 align="center"><b>Hi , I'm Dominic Gartner </b></h1>
 
 <p align="center">
@@ -28,9 +28,9 @@
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
     
-<!-- - **Cloud**:
+- **Cloud**:
 
-    ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
+    ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
 - **Libraries and Frameworks**:
   
@@ -68,3 +68,4 @@
 </a>
 
 </div>
+ -->
